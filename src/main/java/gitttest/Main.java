@@ -1,7 +1,7 @@
 package gitttest;
 
 public class Main {
-	private static int suma1(int x) {
+	private static int resta1(int x) {
 		return x + 1;
 	}
 	
